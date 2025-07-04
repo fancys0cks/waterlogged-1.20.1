@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "waterlogged",
+	"version": "${version}",
+	"name": "Waterlogged",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Fancy socks"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/waterlogged/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.fancy_socks.waterlogged.Waterlogged"
+		],
+		"client": [
+			"net.fancy_socks.waterlogged.WaterloggedClient"
+		],
+		"fabric-datagen": [
+			"net.fancy_socks.waterlogged.WaterloggedDataGenerator"
+		]
+	},
+	"mixins": [
+		"waterlogged.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
