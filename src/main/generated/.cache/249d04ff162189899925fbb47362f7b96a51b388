@@ -1,0 +1,8 @@
+// 1.20.1	2025-07-04T23:37:54.3502346	Waterlogged/Tags for minecraft:block
+dfe4f4c5a91650f6418bc2d68d0a82098a94b1ba data\minecraft\tags\blocks\needs_iron_tool.json
+a80c7569f471608f722fa3c38cfcd9ab61fe1754 data\fabric\tags\blocks\needs_tool_level_4.json
+0cced089632ae19e5acbd0e6a19b7fcfc6e25510 data\minecraft\tags\blocks\logs_that_burn.json
+810abf23eb6ede1c234adef13aa3a2f4c42bf295 data\minecraft\tags\blocks\mineable\pickaxe.json
+3fcbf2ade5792aad944ef1f812034192a15150c2 data\minecraft\tags\blocks\needs_diamond_tool.json
+c33319a89f0ba264b9ad3d73053542af3af32c47 data\minecraft\tags\blocks\needs_stone_tool.json
+6082d3fedb3584b06348713f2b774aaa3cefdf02 data\minecraft\tags\blocks\mineable\axe.json

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "waterlogged:block/rainbow_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "waterlogged:block/rainbow_log"
+    },
+    "axis=z": {
+      "model": "waterlogged:block/rainbow_log_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "waterlogged:raw_ruby_block",
+    "waterlogged:ruby_block",
+    "waterlogged:ruby_ore",
+    "waterlogged:deepslate_ruby_ore",
+    "waterlogged:nether_ruby_ore",
+    "waterlogged:end_stone_ruby_ore"
+  ]
+}
