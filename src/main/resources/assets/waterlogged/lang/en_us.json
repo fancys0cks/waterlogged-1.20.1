@@ -1,0 +1,21 @@
+{
+  "item.waterlogged.ruby": "Ruby",
+  "item.waterlogged.raw_ruby": "Raw Ruby",
+
+  "block.waterlogged.ruby_block": "Block of Ruby",
+  "block.waterlogged.raw_ruby_block": "Block of Raw Ruby",
+
+  "block.waterlogged.ruby_ore": "Ruby Ore",
+  "block.waterlogged.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.waterlogged.nether_ruby_ore": "Nether Ruby Ore",
+  "block.waterlogged.end_stone_ruby_ore": "End Stone Ruby Ore",
+
+  "block.waterlogged.rainbow_log": "Chestnut Log",
+  "block.waterlogged.rainbow_wood": "Chestnut Wood",
+  "block.waterlogged.stripped_rainbow_log": "Stripped Chestnut Log",
+  "block.waterlogged.stripped_rainbow_wood": "Stripped Chestnut Wood",
+  "block.waterlogged.rainbow_planks": "Chestnut Planks",
+  "block.waterlogged.rainbow_leaves": "Chestnut Leaves",
+
+  "itemgroup.ruby": "Ruby & Co"
+}
