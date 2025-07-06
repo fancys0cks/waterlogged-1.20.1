@@ -41,7 +41,7 @@ public class ModBlocks {
     public static final Block RAINBOW_PLANKS = registerBlock("rainbow_planks",
             new Block(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS).strength(4f)));
     public static final Block RAINBOW_LEAVES = registerBlock("rainbow_leaves",
-            new LeavesBlock(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES).strength(4f).nonOpaque()));
+            new LeavesBlock(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES).strength(0.2f).nonOpaque()));
 
 
     private static Block registerBlock(String name, Block block) {

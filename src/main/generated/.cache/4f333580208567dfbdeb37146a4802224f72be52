@@ -1,4 +1,4 @@
-// 1.20.1	2025-07-04T23:37:54.3512351	Waterlogged/Model Definitions
+// 1.20.1	2025-07-06T15:27:05.2925383	Waterlogged/Model Definitions
 031992080db410da0a3461e199a2ed903b3ffb38 assets\waterlogged\blockstates\deepslate_ruby_ore.json
 7cca50f430eac9102a0c5c77c4ca95948e98e9dc assets\waterlogged\blockstates\raw_ruby_block.json
 9aaa3c99a6107c2b0e9356d93cd330f3baed79aa assets\waterlogged\models\block\stripped_rainbow_log_horizontal.json
@@ -28,8 +28,8 @@ ec89c0f9b96e008e472783358c3164ec5b278600 assets\waterlogged\models\block\deepsla
 be77ba9e5b18e80101479eb3a1535a8e2729f997 assets\waterlogged\models\block\end_stone_ruby_ore.json
 b9952e923749231db35c0e3fbd9a4bc46c953b88 assets\waterlogged\models\item\ruby_block.json
 88956a8fc3bf5ad08a2d938eef233ca631c879f0 assets\waterlogged\models\item\rainbow_wood.json
-6b963f397fe585b03399d40db26c317dd9216723 assets\waterlogged\models\item\rainbow_log.json
 029c7f9b0f753e8c6a8acdccaffe382c7232409f assets\waterlogged\models\block\ruby_ore.json
+6b963f397fe585b03399d40db26c317dd9216723 assets\waterlogged\models\item\rainbow_log.json
 45a65936b866765b66e3493d0b86e7c019ebcf7b assets\waterlogged\models\item\ruby.json
 58591147e94ddfc41bfee41e76735711b0c0527c assets\waterlogged\blockstates\nether_ruby_ore.json
 93204c488c6d7a377fcc5d7502d395901ac11561 assets\waterlogged\models\block\stripped_rainbow_wood.json

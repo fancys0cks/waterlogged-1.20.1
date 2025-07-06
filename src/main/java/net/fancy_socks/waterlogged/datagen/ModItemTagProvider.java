@@ -20,7 +20,7 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
                 .add(ModBlocks.RAINBOW_PLANKS.asItem());
 
         getOrCreateTagBuilder(ItemTags.LOGS_THAT_BURN)
-                .add(ModBlocks.RAINBOW_PLANKS.asItem())
+                .add(ModBlocks.RAINBOW_LOG.asItem())
                 .add(ModBlocks.RAINBOW_WOOD.asItem())
                 .add(ModBlocks.STRIPPED_RAINBOW_LOG.asItem())
                 .add(ModBlocks.STRIPPED_RAINBOW_WOOD.asItem());

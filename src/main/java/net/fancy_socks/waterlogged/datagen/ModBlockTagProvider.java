@@ -56,7 +56,7 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.END_STONE_RUBY_ORE);
 
         getOrCreateTagBuilder(BlockTags.LOGS_THAT_BURN)
-                .add(ModBlocks.RAINBOW_PLANKS)
+                .add(ModBlocks.RAINBOW_LOG)
                 .add(ModBlocks.RAINBOW_WOOD)
                 .add(ModBlocks.STRIPPED_RAINBOW_LOG)
                 .add(ModBlocks.STRIPPED_RAINBOW_WOOD);
