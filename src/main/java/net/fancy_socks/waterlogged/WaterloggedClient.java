@@ -11,6 +11,7 @@ public class WaterloggedClient implements ClientModInitializer {
 
 
         BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.RAINBOW_LEAVES, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.RAINBOW_SAPLING, RenderLayer.getCutout());
 
     }
 }

@@ -5,8 +5,10 @@ import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.registry.FlammableBlockRegistry;
 import net.fabricmc.fabric.api.registry.StrippableBlockRegistry;
 import net.fancy_socks.waterlogged.block.ModBlocks;
+import net.fancy_socks.waterlogged.datagen.ModWorldGenerator;
 import net.fancy_socks.waterlogged.item.ModItemGroups;
 import net.fancy_socks.waterlogged.item.ModItems;
+import net.fancy_socks.waterlogged.world.gen.ModWorldGeneration;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -30,6 +32,8 @@ public class Waterlogged implements ModInitializer {
 
 		FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.RAINBOW_PLANKS, 5, 20);
 		FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.RAINBOW_LEAVES, 30, 60);
+
+		ModWorldGeneration.generateModWorldGen();
 
 		LOGGER.info("Hello Fabric world!");
 	}

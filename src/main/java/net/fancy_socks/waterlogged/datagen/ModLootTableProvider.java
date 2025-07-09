@@ -7,6 +7,7 @@ import net.minecraft.block.Block;
 import net.minecraft.data.server.loottable.BlockLootTableGenerator;
 import net.minecraft.enchantment.Enchantments;
 import net.minecraft.item.Item;
+import net.minecraft.item.Items;
 import net.minecraft.loot.LootTable;
 import net.minecraft.loot.entry.ItemEntry;
 import net.minecraft.loot.entry.LeafEntry;
@@ -35,10 +36,13 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.STRIPPED_RAINBOW_LOG);
         addDrop(ModBlocks.RAINBOW_WOOD);
         addDrop(ModBlocks.STRIPPED_RAINBOW_WOOD);
+        addDrop(ModBlocks.RAINBOW_SAPLING);
 
-        addDrop(ModBlocks.RAINBOW_LEAVES, leavesDrops(ModBlocks.RAINBOW_LEAVES,ModBlocks.RUBY_BLOCK, 0.25f));
+        addDrop(ModBlocks.RAINBOW_LEAVES, leavesDrops(ModBlocks.RAINBOW_LEAVES,ModBlocks.RAINBOW_SAPLING, 0.25f));
         //0.005F, 0.0055555557F, 0.00625F, 0.008333334F, 0.025F
     }
+
+
 
     public LootTable.Builder copperLikeOreDrops(Block drop, Item item) {
         return BlockLootTableGenerator.dropsWithSilkTouch(drop, (LootPoolEntry.Builder)this.applyExplosionDecay(drop,

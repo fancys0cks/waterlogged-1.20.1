@@ -1,4 +1,4 @@
-// 1.20.1	2025-07-06T15:27:05.2892295	Waterlogged/Recipes
+// 1.20.1	2025-07-09T16:40:46.383532	Waterlogged/Recipes
 4cfafac5b748c71e52a3921d6ce905dd34b6a07b data\waterlogged\recipes\raw_ruby.json
 3fad0b46d68598e627486331e6b5999ebfd0b044 data\waterlogged\recipes\ruby_from_smelting_deepslate_ruby_ore.json
 291f55b248da2010d36420c310c759aa4999ef32 data\waterlogged\advancements\recipes\building_blocks\ruby.json
@@ -8,8 +8,8 @@ b3cf364162d7cca24a09ddbe19a13041708194d7 data\waterlogged\advancements\recipes\m
 fa1b4a65f3ea1dea6da5ca075ca2a6f9fda52dea data\waterlogged\advancements\recipes\misc\ruby_from_blasting_raw_ruby.json
 3deec3af193aa45e33024f19cf55252476f27688 data\waterlogged\advancements\recipes\misc\ruby_from_smelting_end_stone_ruby_ore.json
 3b7a142e02e8d8a4647ba80bcf555dbb5aa66d9d data\waterlogged\advancements\recipes\misc\ruby_from_blasting_ruby_ore.json
-674efd18476b9e0b2d6ced24423dd5abdae4be6f data\waterlogged\recipes\ruby_from_smelting_end_stone_ruby_ore.json
 f09570d8e80d315790945596d11042c10afc5060 data\waterlogged\advancements\recipes\misc\ruby_from_smelting_nether_ruby_ore.json
+674efd18476b9e0b2d6ced24423dd5abdae4be6f data\waterlogged\recipes\ruby_from_smelting_end_stone_ruby_ore.json
 7aa964d65cf35bc1be3392456b4ff9e444e4a638 data\waterlogged\recipes\ruby_from_blasting_raw_ruby.json
 b0261b43b0efebfa2d5d496b61eefc3583f52025 data\waterlogged\advancements\recipes\decorations\ruby_block.json
 56c9a8c89b91a3fa24019473315981b0d5093daa data\waterlogged\advancements\recipes\misc\ruby_from_smelting_raw_ruby.json

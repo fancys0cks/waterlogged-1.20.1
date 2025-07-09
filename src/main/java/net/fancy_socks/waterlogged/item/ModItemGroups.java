@@ -32,6 +32,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.RAINBOW_PLANKS);
                         entries.add(ModBlocks.STRIPPED_RAINBOW_WOOD);
                         entries.add(ModBlocks.STRIPPED_RAINBOW_LOG);
+                        entries.add(ModBlocks.RAINBOW_SAPLING);
+
 
 
                     }).build());

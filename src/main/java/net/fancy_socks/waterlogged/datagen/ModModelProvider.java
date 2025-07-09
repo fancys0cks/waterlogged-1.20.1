@@ -27,6 +27,11 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.RAINBOW_LEAVES);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.RAINBOW_PLANKS);
 
+        blockStateModelGenerator.registerTintableCross(ModBlocks.RAINBOW_SAPLING, BlockStateModelGenerator.TintType.NOT_TINTED);
+
+
+
+
     }
 
     @Override

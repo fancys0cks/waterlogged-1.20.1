@@ -1,8 +1,9 @@
-// 1.20.1	2025-07-06T15:27:05.2905025	Waterlogged/Block Loot Tables
+// 1.20.1	2025-07-09T16:40:46.3856448	Waterlogged/Block Loot Tables
 f5c823838bdaafe37978859a9f768a95b7384dfe data\waterlogged\loot_tables\blocks\ruby_block.json
-2eb0d87d9ffdbb77403f46bab20b12676111f1d8 data\waterlogged\loot_tables\blocks\rainbow_leaves.json
+5e04d18678f375b5dca853f8aa11e2f0f1389d93 data\waterlogged\loot_tables\blocks\rainbow_leaves.json
 812164e259191f4a22055717820b19ef74014307 data\waterlogged\loot_tables\blocks\rainbow_planks.json
 22ed5ff96da51f8d3325828ffe92e634562e1d40 data\waterlogged\loot_tables\blocks\deepslate_ruby_ore.json
+0eb291718ce2c23824dd7771d12e25d7460c34e7 data\waterlogged\loot_tables\blocks\rainbow_sapling.json
 b46d5206a547767c399386dafa086912e13ba4a5 data\waterlogged\loot_tables\blocks\ruby_ore.json
 b2bff5d4ed7d0383b37423f87136531a3da1fa72 data\waterlogged\loot_tables\blocks\nether_ruby_ore.json
 6d8921492869475eea2b9fa96df9db70cc0e8e68 data\waterlogged\loot_tables\blocks\rainbow_log.json

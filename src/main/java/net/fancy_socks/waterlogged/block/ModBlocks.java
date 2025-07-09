@@ -4,6 +4,7 @@ package net.fancy_socks.waterlogged.block;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.fancy_socks.waterlogged.Waterlogged;
+import net.fancy_socks.waterlogged.world.tree.RainbowSaplingGenerator;
 import net.minecraft.block.*;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -42,6 +43,9 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS).strength(4f)));
     public static final Block RAINBOW_LEAVES = registerBlock("rainbow_leaves",
             new LeavesBlock(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES).strength(0.2f).nonOpaque()));
+
+    public static final Block RAINBOW_SAPLING = registerBlock("rainbow_sapling",
+            new SaplingBlock(new RainbowSaplingGenerator(), FabricBlockSettings.copyOf(Blocks.OAK_SAPLING)));
 
 
     private static Block registerBlock(String name, Block block) {
