@@ -23,6 +23,9 @@
 		],
 		"fabric-datagen": [
 			"net.fancy_socks.waterlogged.WaterloggedDataGenerator"
+		],
+		"terrablender": [
+			"net.fancy_socks.waterlogged.world.biome.ModTerrablenderAPI"
 		]
 	},
 	"mixins": [
