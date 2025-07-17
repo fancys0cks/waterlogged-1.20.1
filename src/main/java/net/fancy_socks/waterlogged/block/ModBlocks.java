@@ -47,6 +47,11 @@ public class ModBlocks {
     public static final Block RAINBOW_SAPLING = registerBlock("rainbow_sapling",
             new SaplingBlock(new RainbowSaplingGenerator(), FabricBlockSettings.copyOf(Blocks.OAK_SAPLING)));
 
+    public static final Block RAINBOW_DIRT = registerBlock("rainbow_dirt",
+            new Block(FabricBlockSettings.copyOf(Blocks.DIRT).strength(0.5f).sounds(BlockSoundGroup.GRAVEL)));
+    public static final Block RAINBOW_GRASS_BLOCK = registerBlock("rainbow_grass_block",
+            new GrassBlock(FabricBlockSettings.copyOf(Blocks.GRASS_BLOCK).strength(0.6f).sounds(BlockSoundGroup.GRASS).ticksRandomly()));
+
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);

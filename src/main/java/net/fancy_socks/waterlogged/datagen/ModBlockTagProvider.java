@@ -37,6 +37,10 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.RAINBOW_WOOD)
                 .add(ModBlocks.STRIPPED_RAINBOW_WOOD);
 
+        getOrCreateTagBuilder(BlockTags.SHOVEL_MINEABLE)
+                .add(ModBlocks.RAINBOW_DIRT)
+                .add(ModBlocks.RAINBOW_GRASS_BLOCK);
+
 
 
 

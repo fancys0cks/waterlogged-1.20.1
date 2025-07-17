@@ -17,6 +17,8 @@
   "block.waterlogged.rainbow_planks": "Rainbow  Planks",
   "block.waterlogged.rainbow_leaves": "Rainbow  Leaves",
   "block.waterlogged.rainbow_sapling": "Rainbow  Sapling",
+  "block.waterlogged.rainbow_dirt": "Rainbow  Dirt",
+  "block.waterlogged.rainbow_grass_block": "Rainbow Grass Block",
 
   "itemgroup.ruby": "Ruby & Co"
 }

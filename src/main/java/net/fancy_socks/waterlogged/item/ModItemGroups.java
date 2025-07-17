@@ -34,6 +34,9 @@ public class ModItemGroups {
                         entries.add(ModBlocks.STRIPPED_RAINBOW_LOG);
                         entries.add(ModBlocks.RAINBOW_SAPLING);
 
+                        entries.add(ModBlocks.RAINBOW_DIRT);
+                        entries.add(ModBlocks.RAINBOW_GRASS_BLOCK);
+
 
 
                     }).build());

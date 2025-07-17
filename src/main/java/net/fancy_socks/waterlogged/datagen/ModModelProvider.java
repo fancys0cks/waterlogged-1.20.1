@@ -4,9 +4,9 @@ import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
 import net.fancy_socks.waterlogged.block.ModBlocks;
 import net.fancy_socks.waterlogged.item.ModItems;
-import net.minecraft.data.client.BlockStateModelGenerator;
-import net.minecraft.data.client.ItemModelGenerator;
-import net.minecraft.data.client.Models;
+import net.minecraft.data.client.*;
+
+import static net.fancy_socks.waterlogged.block.ModBlocks.RAINBOW_GRASS_BLOCK;
 
 public class ModModelProvider extends FabricModelProvider {
     public ModModelProvider(FabricDataOutput output) {
@@ -29,10 +29,12 @@ public class ModModelProvider extends FabricModelProvider {
 
         blockStateModelGenerator.registerTintableCross(ModBlocks.RAINBOW_SAPLING, BlockStateModelGenerator.TintType.NOT_TINTED);
 
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.RAINBOW_DIRT);
 
 
 
-    }
+
+  }
 
     @Override
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {

@@ -40,6 +40,9 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
 
         addDrop(ModBlocks.RAINBOW_LEAVES, leavesDrops(ModBlocks.RAINBOW_LEAVES,ModBlocks.RAINBOW_SAPLING, 0.25f));
         //0.005F, 0.0055555557F, 0.00625F, 0.008333334F, 0.025F
+
+        addDrop(ModBlocks.RAINBOW_DIRT);
+        addDrop(ModBlocks.RAINBOW_GRASS_BLOCK);
     }
 
 

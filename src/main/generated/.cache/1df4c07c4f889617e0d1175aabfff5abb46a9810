@@ -1,12 +1,14 @@
-// 1.20.1	2025-07-14T17:03:03.7856817	Waterlogged/Block Loot Tables
+// 1.20.1	2025-07-17T14:34:48.7473671	Waterlogged/Block Loot Tables
 f5c823838bdaafe37978859a9f768a95b7384dfe data\waterlogged\loot_tables\blocks\ruby_block.json
 5e04d18678f375b5dca853f8aa11e2f0f1389d93 data\waterlogged\loot_tables\blocks\rainbow_leaves.json
 812164e259191f4a22055717820b19ef74014307 data\waterlogged\loot_tables\blocks\rainbow_planks.json
 22ed5ff96da51f8d3325828ffe92e634562e1d40 data\waterlogged\loot_tables\blocks\deepslate_ruby_ore.json
 0eb291718ce2c23824dd7771d12e25d7460c34e7 data\waterlogged\loot_tables\blocks\rainbow_sapling.json
 b46d5206a547767c399386dafa086912e13ba4a5 data\waterlogged\loot_tables\blocks\ruby_ore.json
+6c51d61fc195cf29ae60a3c006376179dd75194a data\waterlogged\loot_tables\blocks\rainbow_grass_block.json
 b2bff5d4ed7d0383b37423f87136531a3da1fa72 data\waterlogged\loot_tables\blocks\nether_ruby_ore.json
 6d8921492869475eea2b9fa96df9db70cc0e8e68 data\waterlogged\loot_tables\blocks\rainbow_log.json
+5346011116313d548825ce3325c8db6358573edb data\waterlogged\loot_tables\blocks\rainbow_dirt.json
 5562c90b79ac4a8da1fc635657c5bc60f85f2264 data\waterlogged\loot_tables\blocks\stripped_rainbow_wood.json
 25c9f1c2b5cc64da9c5064f447d06c345934be2e data\waterlogged\loot_tables\blocks\stripped_rainbow_log.json
 736e8eacb9293cbafe3b4ca327d697b3ff5a02d7 data\waterlogged\loot_tables\blocks\rainbow_wood.json
